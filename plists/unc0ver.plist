@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
+<plist version="1.0">
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://download.wetransfer.com//us2/41fa8e387edf6587fdb9ef4794c4940620200220220459/d33bcc224e482d96defa54cbf6dd41aadf3ce53a/Undecimus-v4.0.3.ipa?cf=y&token=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODI0OTcxNjQsInVuaXF1ZSI6IjQxZmE4ZTM4N2VkZjY1ODdmZGI5ZWY0Nzk0YzQ5NDA2MjAyMDAyMjAyMjA0NTkiLCJmaWxlbmFtZSI6IlVuZGVjaW11cy12NC4wLjMuaXBhIiwiaG90IjpmYWxzZSwiYnl0ZXNfZXN0aW1hdGVkIjozNjMyMjg3OCwid2F5YmlsbF91cmwiOiJodHRwOi8vcHJvZHVjdGlvbi5iYWNrZW5kLnNlcnZpY2UudXMtZWFzdC0xLnd0OjkyOTIvd2F5YmlsbC92MS9zYXJrYXIvYTc4NjljZGQwN2E1OWM1MzdjZmNmYjRhOWQyYTY2MDQwMDMyYmJmMTVmOWJlOWM5NjEyNGFiNGFhMGFhNGU2ZmU2OTg1NTQ1MWYwMGRmMjVjOGRjNGRjMDE0NjVjMjg0ZmJhNmZhZGViNjExYmZmOWM1NTEwMGEzMDA1NWI0N2UiLCJjYWxsYmFjayI6IntcImZvcm1kYXRhXCI6e1wiYWN0aW9uXCI6XCJodHRwOi8vcHJvZHVjdGlvbi5mcm9udGVuZC5zZXJ2aWNlLmV1LXdlc3QtMS53dDozMDAwL3dlYmhvb2tzL2JhY2tlbmRcIn0sXCJmb3JtXCI6e1widHJhbnNmZXJfaWRcIjpcIjQxZmE4ZTM4N2VkZjY1ODdmZGI5ZWY0Nzk0YzQ5NDA2MjAyMDAyMjAyMjA0NTlcIixcImRvd25sb2FkX2lkXCI6ODY0NTM3NDI1Nn19In0.fwQWfqmbpdPlXNZ5pzL-U2cDiOw8CNXOBUjHtxGzPc8</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>https://app.eonhub.co/img/icon.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://app.eonhub.co/img/icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>io.github.ialtcydia.unc0ver</string>
+<key>bundle-version</key>
+<string>1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>unc0ver Jailbreak (iAltCydia)</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist> 
